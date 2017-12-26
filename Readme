@@ -1,0 +1,6 @@
+3rd party libraries used along with the code:
+
+IMgui by ocornut
+https://github.com/ocornut/imgui
+---------------------------------
+This library was used for all the gui components
